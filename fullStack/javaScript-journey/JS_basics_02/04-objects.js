@@ -37,4 +37,5 @@ console.log(values)
 
 console.log(tinder.hasOwnProperty('email'))
 console.log(tinder.hasOwnProperty('name'))
+console.log(tinder.hasOwnProperty('age'))
 

@@ -32,5 +32,28 @@ const obj4 = Object.assign({}, obj1, obj2,obj3)// This is also a way to assign t
 
 const keys = Object.keys(tinder)//usage of "Object.keys" and "Object.values" are heavily used as it returns the output in the form of arrays which can later be combined for looping and many more.
 const values = Object.values(tinder)
-console.log(keys)
-console.log(values)
+// console.log(keys)
+// console.log(values)
+
+// console.log(tinder.hasOwnProperty('email'))
+// console.log(tinder.hasOwnProperty('name'))
+// console.log(tinder.hasOwnProperty('age'))
+
+
+
+// desctructuring of objects and JSON API 
+
+const course = {
+    userNam : "JS_basics_02",
+    userPass : "123abc",
+    userId : "Manas@123"
+}
+const {userNam} = course
+const {userPass} = course
+console.log(userNam)
+console.log(userPass)
+// {
+//     "name" : "Manas",
+//     "courseName" : "JS_basics_02",
+//     "workMachine" : "Windows"
+// }

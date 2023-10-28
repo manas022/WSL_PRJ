@@ -34,3 +34,7 @@ const keys = Object.keys(tinder)//usage of "Object.keys" and "Object.values" are
 const values = Object.values(tinder)
 console.log(keys)
 console.log(values)
+
+console.log(tinder.hasOwnProperty('email'))
+console.log(tinder.hasOwnProperty('name'))
+

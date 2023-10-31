@@ -26,4 +26,7 @@ switch (month) {
         console.log("default case match")
 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a84b11c ( Learned the use cases of the swtich-case statements.)

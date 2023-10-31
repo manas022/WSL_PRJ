@@ -21,3 +21,13 @@
 //     console.log(`score is ${score}`)
 //     score++
 // } while (score <= 10)
+
+
+let score = false
+
+do {
+    console.log(`score is ${score}`)
+    score++
+} while (score === true)
+
+

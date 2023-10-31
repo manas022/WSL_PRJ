@@ -8,3 +8,6 @@
 ((name) => {
     console.log(`Hola ${name}, How are we doing in the learning journey so far `)
 }) ('Manas')
+
+//This is what we just needed to learn in IIFEs.
+// see you in the next one till them keep hold on your horses as we have embarked on the journey to become a master programmer.

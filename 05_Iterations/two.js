@@ -23,11 +23,23 @@
 // } while (score <= 10)
 
 
-let score = false
+// let score = false
 
-do {
-    console.log(`score is ${score}`)
-    score++
-} while (score === true)
+// do {
+//     console.log(`score is ${score}`)
+//     score++
+// } while (score === true)
+
+
+
+// program to display numbers from 1 to 5
+// initialize the variable
+let i = 1, n = 5;
+
+// while loop from i = 1 to 5
+while (i <= n) {
+    console.log(i);
+    i += 1;
+}
 
 

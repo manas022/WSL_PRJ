@@ -11,7 +11,7 @@ for(const greet of greetings){
     // console.log(greet)
 }
 
-// MAP 
+// MAP and its methods
 const map = new Map()
 
 map.set('IN', 'India')

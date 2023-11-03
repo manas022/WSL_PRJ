@@ -22,12 +22,12 @@
 //     score++
 // } while (score <= 10)
 
+// do while loop
+// let score = false
 
-let score = false
-
-do {
-    console.log(`score is ${score}`)
-    score++
-} while (score === true)
+// do {
+//     console.log(`score is ${score}`)
+//     score++
+// } while (score === true)
 
 

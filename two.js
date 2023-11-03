@@ -22,7 +22,7 @@
 //     score++
 // } while (score <= 10)
 
-
+// do while loop
 // let score = false
 
 // do {

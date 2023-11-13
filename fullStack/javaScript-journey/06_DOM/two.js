@@ -3,7 +3,7 @@ function randomNumber(min, max) {
   }
   
   function randomChallenge() {
-    const categories = ['intro', 'callbacks', 'closures', 'asynch', 'oop', 'recursion'];
+    const categories = ['intro', 'callbacks', 'closures', 'async', 'OOP', 'recursion'];
     let randomIndex = Math.floor(Math.random() * categories.length);
     let category = categories[randomIndex];
     let num
